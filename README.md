@@ -1,2 +1,2 @@
-# BitCoin-Trading-Bot-
+# BitCoin_Trading_Bot
 Making BitCoin Tading Bot
